@@ -1,8 +1,8 @@
 class StyleCli < Formula
   desc "Manage rules and native hooks for coding harnesses"
   homepage "https://github.com/inxups/style-cli"
-  url "https://github.com/inxups/style-cli/archive/refs/tags/v0.3.1.tar.gz"
-  sha256 "7209e12d176b5a912961bae071610c3f28ac09a1ecd62cb5ff90052706072be1"
+  url "https://github.com/inxups/style-cli/archive/refs/tags/v0.3.2.tar.gz"
+  sha256 "e659db513508f280560e40b558f39ca7edf08bd1feb22385a49402122e383550"
   license "MIT"
   head "https://github.com/inxups/style-cli.git", branch: "main"
 
